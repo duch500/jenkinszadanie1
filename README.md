@@ -1,1 +1,0 @@
-# jenkinszadanie1
